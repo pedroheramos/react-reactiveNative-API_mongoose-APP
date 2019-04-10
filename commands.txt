@@ -1,0 +1,39 @@
+yarn init -y
+yarn add express
+mkdir src
+touch server.js
+node src/server.js
+touch routes.js
+mkdir src/config
+mkdir src/models
+mkdir src/controllers
+yarn add nodemon -D
+add scrips in package.json
+yarn dev/start
+
+mongodbatlas //cloud.mongodb.com
+pedroheramos@gmail.com
+t@9
+oministack
+oministack_root
+add
+SECUTIRY
+ip whitelist
+allow access from anywhere
+OVERVIEW
+connect
+connect your application
+
+yarn add mongoose
+
+install insomnia.rest/downloads
+// route tester
+
+yarn add multer 
+// package p/ files
+
+yarn add socketio
+yarn add cors
+// create app in heroku
+pedroheramos@gmail.com
+t@9
