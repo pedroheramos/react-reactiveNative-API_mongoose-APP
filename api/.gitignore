@@ -22,3 +22,7 @@ npm-debug.log
 
 yarn.lock
 package-lock.json
+
+
+tmp/*
+!tmp/.gitkeep
