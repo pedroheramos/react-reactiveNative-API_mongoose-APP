@@ -1,3 +1,4 @@
+BACK END
 yarn init -y
 yarn add express
 mkdir src
@@ -37,3 +38,8 @@ yarn add cors
 // create app in heroku
 pedroheramos@gmail.com
 t@9
+
+
+FRONT END
+
+yarn create react-app app
