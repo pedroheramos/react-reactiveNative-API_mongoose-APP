@@ -52,3 +52,11 @@ yarn add react-icons
 yarn add date-fns
 yard add react-dropzone
 yarn add socket.io-client
+
+
+// MOBILE
+npm isntalll -g react-native-cli
+
+https://docs.rocketseat.dev
+install chocolatey
+install android sdk tools
