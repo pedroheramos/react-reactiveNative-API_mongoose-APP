@@ -46,3 +46,9 @@ yarn create react-app app
 cd app
 yarn start
 yarn add axios
+yarn add react-router-dom
+yarn add babel-runtime
+yarn add react-icons
+yarn add date-fns
+yard add react-dropzone
+yarn add socket.io-client
