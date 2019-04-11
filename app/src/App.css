@@ -17,3 +17,9 @@ body{
   color: #333;
   -webkit-font-smoothing: antialiased !important;
 }
+.logo{
+  width: 80%;
+  filter: invert(80%);
+  margin-top: 10px;
+  width: 150px;
+}

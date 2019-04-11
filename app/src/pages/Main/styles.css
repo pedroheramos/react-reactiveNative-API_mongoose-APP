@@ -38,10 +38,3 @@
 #main-container form button:hover {
     opacity: 0.8;;
 }
-
-.logo{
-    width: 80%;
-    filter: invert(80%);
-    margin-top: 10px;
-    width: 150px;
-}
